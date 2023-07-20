@@ -10,7 +10,7 @@ Users can use this web application to save an hourly based itinerary of their wo
 ## Installation
 
 
-There is no Installation involved on the users side to utilize this webpage; just visit [https://hello-andyjoe.github.io](https://hello-andyjoe.github.io)
+There is no Installation involved on the users side to utilize this webpage; just visit [https://hello-andyjoe.github.io/Challenge-5/](https://hello-andyjoe.github.io/Challenge-5/)
 
 
 ## Usage
